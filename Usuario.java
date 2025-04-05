@@ -47,8 +47,4 @@ abstract class Usuario {
 
 	
 	
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 7c4dfeef88f7b928728ecd2db297907188c85d74
